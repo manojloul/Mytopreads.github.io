@@ -23,6 +23,13 @@ body,html{
     text-align: center;
 
 }
+.head
+{
+    text-align: center;  
+}
+.head a {
+    text-decoration: none;
+}
   
     .book ul{
         display: flex;
